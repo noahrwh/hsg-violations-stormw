@@ -1,0 +1,1 @@
+Map of BBLs within 150 meters of projected moderate stormwater flooding (with 2050s sea level rise) with a violation to (residential) unit ratio of 7.5 or greater for the years (Jan) 2021 through (May) 2025. Data from NYC Open Data's "Housing Maintenance Code Violations" and "NYC Stormwater Flood Maps"
